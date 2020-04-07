@@ -1,0 +1,10 @@
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\XmlConsole_001\bin\Debug\XmlConsole_001.exe
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\XmlConsole_001\bin\Debug\XmlConsole_001.pdb
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\XmlConsole_001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\XmlConsole_001\obj\x86\Debug\XmlConsole_001.exe
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\XmlConsole_001\obj\x86\Debug\XmlConsole_001.pdb
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\XmlConsole_001\XmlConsole_001\obj\x86\Debug\XmlConsole_001.exe
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\XmlConsole_001\XmlConsole_001\obj\x86\Debug\XmlConsole_001.pdb
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\XmlConsole_001\XmlConsole_001\bin\Debug\XmlConsole_001.exe
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\XmlConsole_001\XmlConsole_001\bin\Debug\XmlConsole_001.pdb
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\XmlConsole_001\XmlConsole_001\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -8,3 +8,13 @@ C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Proje
 C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\ProcessClassExample\obj\x86\Debug\ProcessClassExample.exe
 C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\ProcessClassExample\obj\x86\Debug\ProcessClassExample.xml
 C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\ProcessClassExample\obj\x86\Debug\ProcessClassExample.pdb
+\\192.168.1.218\Users\rioyclai\CodeFiles\ProcessClassExample\ProcessClassExample\obj\x86\Debug\ProcessClassExample.exe
+\\192.168.1.218\Users\rioyclai\CodeFiles\ProcessClassExample\ProcessClassExample\obj\x86\Debug\ProcessClassExample.xml
+\\192.168.1.218\Users\rioyclai\CodeFiles\ProcessClassExample\ProcessClassExample\obj\x86\Debug\ProcessClassExample.pdb
+\\192.168.1.218\Users\rioyclai\CodeFiles\ProcessClassExample\ProcessClassExample\bin\Debug\ProcessClassExample.exe
+\\192.168.1.218\Users\rioyclai\CodeFiles\ProcessClassExample\ProcessClassExample\bin\Debug\ProcessClassExample.pdb
+\\192.168.1.218\Users\rioyclai\CodeFiles\ProcessClassExample\ProcessClassExample\bin\Debug\ProcessClassExample.xml
+\\192.168.1.218\Users\rioyclai\CodeFiles\ProcessClassExample\ProcessClassExample\obj\x86\Debug\ResolveAssemblyReference.cache
+\\192.168.1.218\Users\rioyclai\CodeFiles\ProcessClassExample\ProcessClassExample\obj\x86\Debug\ProcessClassExample.Resources.resources
+\\192.168.1.218\Users\rioyclai\CodeFiles\ProcessClassExample\ProcessClassExample\obj\x86\Debug\GenerateResource.read.1.tlog
+\\192.168.1.218\Users\rioyclai\CodeFiles\ProcessClassExample\ProcessClassExample\obj\x86\Debug\GenerateResource.write.1.tlog

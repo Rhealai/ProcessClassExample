@@ -1,0 +1,6 @@
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\XmlConsole_002\XmlConsole_002\bin\Debug\XmlConsole_002.exe
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\XmlConsole_002\XmlConsole_002\bin\Debug\XmlConsole_002.pdb
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\XmlConsole_002\XmlConsole_002\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\XmlConsole_002\XmlConsole_002\obj\x86\Debug\XmlConsole_002.exe
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\XmlConsole_002\XmlConsole_002\obj\x86\Debug\XmlConsole_002.pdb
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\XmlConsole_002\XmlConsole_002\bin\Debug\XMLFile1.xml

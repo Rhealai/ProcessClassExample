@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<entity>
+  <user ip="127.0.0.2">
+    rioyclai
+    <enroll time ="2020/04/08 13:11:17"></enroll>
+  </user>
+  <user ip="127.0.0.1">
+    wcc
+    <enroll time ="2020/04/08 14:11:17"></enroll>
+  </user>
+  <user ip="127.0.0.3">
+    atc
+    <enroll time ="2020/04/08 15:11:17"></enroll>
+  </user>
+  
+</entity>

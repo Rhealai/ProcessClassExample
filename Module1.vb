@@ -6,29 +6,24 @@ Module Module1
         Console.Write("Hello")
         Console.ReadKey()
 
-
-
-        'Console.Write(Directory.GetCurrentDirectory)
-        'Console.Write(Reflection.Assembly.GetExecutingAssembly.Location())
-
-        Console.Write(RunCMD())
+        Console.Write(RunCMD("dir"))
         Console.ReadKey()
 
-        Dim Dir As String = "C:\Program Files\Opera"
-        Directory.SetCurrentDirectory(Dir)
-        RunWinApplication("")
-        'Console.Write(RunWinApplication(""))
-        Console.ReadKey()
-
-
-        'Console.Write(Directory.GetCurrentDirectory)
+        'Dim Dir As String = "C:\Program Files\Opera"
+        'Directory.SetCurrentDirectory(Dir)
+        'RunWinApplication("")
         'Console.ReadKey()
 
-        Process.Start("notepad.exe", "C:\UsbDsoData\list.txt")
+
+        'Console.Write(Directory.GetCurrentDirectory)
+        Console.WriteLine(RunBat())
+        Console.ReadKey()
+
+        'Process.Start("notepad.exe", "C:\UsbDsoData\list.txt")
 
     End Sub
 
-    Private Function RunCMD() As String
+    Private Function RunBat() As String
         Dim p As Process = New Process()
         p.StartInfo.FileName = "cmd.exe"
 
@@ -38,10 +33,25 @@ Module Module1
         p.StartInfo.CreateNoWindow = True
         p.Start()
 
-        p.StandardInput.WriteLine("type C:\UsbDsoData\list.txt")
+        p.StandardInput.WriteLine("C:\run.bat")
         p.StandardInput.WriteLine("exit")
 
+        Return p.StandardOutput.ReadToEnd()
 
+    End Function
+
+    Private Function RunCMD(ByVal command As String) As String
+        Dim p As Process = New Process()
+        p.StartInfo.FileName = "cmd.exe"
+
+        p.StartInfo.UseShellExecute = False
+        p.StartInfo.RedirectStandardInput = True
+        p.StartInfo.RedirectStandardOutput = True
+        p.StartInfo.CreateNoWindow = True
+        p.Start()
+
+        p.StandardInput.WriteLine(command)
+        p.StandardInput.WriteLine("exit")
 
         Return p.StandardOutput.ReadToEnd()
 
